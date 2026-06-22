@@ -5,8 +5,8 @@ import sys
 sys.path.insert(0, os.path.abspath('.'))
 
 # -- Project information -----------------------------------------------------
-project = 'Docs Jackson Hewitt'
-author = 'Wayans'
+project = 'Web Solutions'
+author = 'Cassie'
 release = '1.0'
 
 # -- General configuration ---------------------------------------------------
